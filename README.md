@@ -1,4 +1,4 @@
-![image](https://github.com/Ly1ngCat/Stable-diffusion-guide/assets/51241945/b87effea-fd93-40ea-af57-d413cad55d6c)# Stable-diffusion-guide
+# Stable-diffusion-guide
 Руководство для новых пользователей Stable diffusion
 
 # Начало работы
